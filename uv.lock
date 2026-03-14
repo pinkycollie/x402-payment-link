@@ -150,7 +150,7 @@ wheels = [
 
 [[package]]
 name = "cdp-sdk"
-version = "1.33.1"
+version = "1.40.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "aiohttp" },
@@ -166,9 +166,9 @@ dependencies = [
     { name = "urllib3" },
     { name = "web3" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/59/1f/e553d08f7d21d14185df1f5e7a36f063897c4fe3d322e8b70bcfcf35c5b2/cdp_sdk-1.33.1.tar.gz", hash = "sha256:d5cde355e125d055e8d3f4c0d165279da2fe30b461ef74809568bdd1a0df974f", size = 325727, upload-time = "2025-10-07T00:22:56.867Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/85/ee/66024a3a90b9477f81953247ea2ab0d29ecbbb380bab46cfb63284057c29/cdp_sdk-1.40.0.tar.gz", hash = "sha256:964da968062f65aa9ee09f3d92294078c200533a4b6260a4af5870c99e4d480a", size = 361895, upload-time = "2026-03-06T21:42:12.576Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/9b/c3/5babeec4302de35b75dd9d796b7eb86fc2ece38b51d7a1755a40c714d0ae/cdp_sdk-1.33.1-py3-none-any.whl", hash = "sha256:604edce4e6c93df98960b45a7b6a32bc9792b7295a617c156ab3839a0d3b5aca", size = 824371, upload-time = "2025-10-07T00:22:54.575Z" },
+    { url = "https://files.pythonhosted.org/packages/3e/5d/968f51e8f44f3d4bd15f53f0911cadfc12a1ff4f64f99cc4891f4fbf9e2d/cdp_sdk-1.40.0-py3-none-any.whl", hash = "sha256:45691cc6a36a799a81b74b2cc65d0081352a7c366320cb1e2c59cf86adb72183", size = 940665, upload-time = "2026-03-06T21:42:10.958Z" },
 ]
 
 [[package]]
@@ -1615,11 +1615,11 @@ wheels = [
 
 [[package]]
 name = "urllib3"
-version = "2.3.0"
+version = "2.6.3"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/aa/63/e53da845320b757bf29ef6a9062f5c669fe997973f966045cb019c3f4b66/urllib3-2.3.0.tar.gz", hash = "sha256:f8c5449b3cf0861679ce7e0503c7b44b5ec981bec0d1d3795a07f1ba96f0204d", size = 307268, upload-time = "2024-12-22T07:47:30.032Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/c7/24/5f1b3bdffd70275f6661c76461e25f024d5a38a46f04aaca912426a2b1d3/urllib3-2.6.3.tar.gz", hash = "sha256:1b62b6884944a57dbe321509ab94fd4d3b307075e0c2eae991ac71ee15ad38ed", size = 435556, upload-time = "2026-01-07T16:24:43.925Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/c8/19/4ec628951a74043532ca2cf5d97b7b14863931476d117c471e8e2b1eb39f/urllib3-2.3.0-py3-none-any.whl", hash = "sha256:1cee9ad369867bfdbbb48b7dd50374c0967a0bb7710050facf0dd6911440e3df", size = 128369, upload-time = "2024-12-22T07:47:28.074Z" },
+    { url = "https://files.pythonhosted.org/packages/39/08/aaaad47bc4e9dc8c725e68f9d04865dbcb2052843ff09c97b08904852d84/urllib3-2.6.3-py3-none-any.whl", hash = "sha256:bf272323e553dfb2e87d9bfd225ca7b0f467b919d7bbd355436d3fd37cb0acd4", size = 131584, upload-time = "2026-01-07T16:24:42.685Z" },
 ]
 
 [[package]]
